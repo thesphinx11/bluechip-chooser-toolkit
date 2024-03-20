@@ -1,0 +1,33 @@
+{
+  "name": "bluechip-chooser-toolkit",
+  "version": "1.0.0",
+  "description": "Choose the best investments with a comprehensive toolkit for analysis and decision-making.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thesphinx11/bluechip-chooser-toolkit"
+  },
+  "author": "thesphinx11",
+  "license": "MIT",
+  "dependencies": {
+    "bluechip-query-tool": "1.0.0",
+    "bluechip-chooser-toolkit": "1.0.0",
+    "validator": "1.0.0",
+    "body-parser": "1.0.0",
+    "eslint": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "async": "1.0.0",
+    "socket.io": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "moment": "1.0.0",
+    "dotenv": "1.0.0",
+    "web3-utils": "1.0.0",
+    "truffle": "1.0.0",
+    "sequelize": "1.0.0",
+    "mysql": "1.0.0"
+  }
+}
